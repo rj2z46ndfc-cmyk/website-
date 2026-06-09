@@ -27,11 +27,9 @@ Sosh_Ink is a tattoo studio focused on high-quality custom tattoos, creativity, 
 
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript 
 
-## 📷 Website Preview
 
-(Add screenshots of your website here)
 
 ## 🚀 Installation
 
@@ -55,7 +53,7 @@ Our goal is to create a premium online experience for tattoo clients, making it 
 
 **Sosh_Ink Tattoo Studio**  
 Instagram: @sosh_ink  
-Email: your@email.com
+Phone: 084 853 2978
 
 ---
 
